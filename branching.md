@@ -14,3 +14,14 @@ git switch <branch-name>
 
 * ساخت و ورود همزمان به شاخه جدید:
 git checkout -b <branch-name>
+
+* دیدن لیست شاخه :
+git branch          # لیست شاخه‌های محلی
+git branch -a       # شاخه‌های محلی + ریموت
+git branch -v       # شاخه‌ها به همراه آخرین کامیت هرکدام
+
+* حذف شاخه :
+git branch -d <branch-name>    # حذف امن (فقط اگر ادغام شده باشد)
+git branch -D <branch-name>    # حذف اجباری (حتی اگر ادغام نشده باشد)
+
+
