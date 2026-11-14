@@ -11,4 +11,4 @@
 ## Project Goal (هدف پروژه)
 مستندسازی و آموزش گام‌به‌گام ابزار Git و GitHub برای درس مهندسی نرم‌افزار (استاد امید ادیب‌فر).
 ## وضعیت پروژه
-Project Status: In Progress
+Project Status: Completed
